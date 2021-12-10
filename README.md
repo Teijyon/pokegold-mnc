@@ -1,8 +1,8 @@
-# Pokémon Gold and Silver [![Build Status][ci-badge]][ci]
+# Pokémon Aisin and Menggun [![Build Status][ci-badge]][ci]
 
-This is a disassembly of Pokémon Gold and Pokémon Silver.
+This is a manchu translation for disassembly of Pokémon Gold and Pokémon Silver.
 
-It builds the following ROMs:
+It builds based on the following ROMs:
 
 - Pokemon - Gold Version (UE) [C][!].gbc `sha1: d8b8a3600a465308c9953dfa04f0081c05bdcb94`
 - Pokemon - Silver Version (UE) [C][!].gbc `sha1: 49b163f7e57702bc939d642a18f591de55d92dae`
